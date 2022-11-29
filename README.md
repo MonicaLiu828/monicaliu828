@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MonicaLiu828
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome, I'm Monica
 
-<!---
-MonicaLiu828/MonicaLiu828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developer, Traveller, and Food lover!
+
+💡 I love learning about everything 💡
+🙌 2022 and 2023 Goals: ✔️ keep expanding programming skills ✔️, design a personal homepage  
+:octocat: Hobbies: traveling, swimming, and reading... 
