@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Amazon AWS-252F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/MonicaLiu828/MonicaLiu828/blob/output/github-contribution-grid-snake.gif)
+
 ### Connect with me
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/monicaliuswe/)
