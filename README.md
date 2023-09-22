@@ -32,5 +32,5 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/monicaliuswe/)
 
 ### Snake eating my contribution graph
-![snake gif](https://github.com/MonicaLiu828/MonicaLiu828/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MonicaLiu828/MonicaLiu828/blob/output/github-contribution-grid-snake.svg)
 
